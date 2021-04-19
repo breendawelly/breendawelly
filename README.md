@@ -7,7 +7,7 @@ Olá! :)
 
  - 💻 Atualmente, estou aprendendo HTML5, CSS3, JavaScript, Jquery, Bootstrap, Node.JS, React, API e análise de dados para BI.
  
- - ❤️ Algumas curiosidades sobre mim: Sou apaixonada por animais (tenho 1 cadela chamada Vivi Doguinha), cozinheira sênior de Ovo Frito e especilista em análise de séries ruins da Netflix.
+ - ❤️ Algumas curiosidades sobre mim: Sou apaixonada por animais (tenho 1 cadela chamada Vivi Doguinha) e especilista em análise de séries da Netflix.
 
 - 👯 Estou procurando colaborar em projetos com código-fonte aberto. Acredito no compartilhamento de conhecimento como uma ferramenta para o progresso humano. E se você quiser usar algum dos meus projetos ou me incentivar a continuar estudando, basta citar minha autoria ou estrelar e compartilhar meus projetos.
 
