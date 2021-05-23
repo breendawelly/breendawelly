@@ -1,6 +1,6 @@
 Olá! :) 
 <h4>
-  Meu nome é Welee, Sou uma profissional com 3 anos de atuação na área de marketing digital, criando, desenvolvendo, implementando e supervisionando estratégias de marketing digital para organizações, com sólidos conhecimentos em produção de conteúdo para web. E depois de anos como mercadóloga, decidi seguir o meu grande sonho e amor que é programar e atualmente estou em TRANSIÇÃO DE CARREIRA.
+  Meu nome é Welly, Sou uma profissional com 3 anos de atuação na área de marketing digital, criando, desenvolvendo, implementando e supervisionando estratégias de marketing digital para organizações. E depois de anos como mercadóloga, decidi seguir o meu grande sonho e amor que é programar e atualmente estou em TRANSIÇÃO DE CARREIRA.
 </h4>
 
 - 📚 Realizo os bootcamps: Desenvolvimento Web Full Stack com ênfase em Front End na Edtech SoulCode Academy. E também o de Business Intelligence da IGTI .
