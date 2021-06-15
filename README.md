@@ -1,9 +1,12 @@
+<!--Apresentação-->
 #  Olá,  meu nome é  <strong> Welly! </strong> :raising_hand:
 
+<!--Sobre mim-->
 <h4>
 Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Itaú Unibanco onde participo do Bootcamp Backend desenvolvendo na tecnologia .Net. Também me dedico  aos estudos de ciencia e engenharia de dados, àrea que desejo me aperfeiçoar e seguir carreira.
 </h4>
 
+<!--Informações academicas-->
 ## :mortar_board: Onde e o que estou estudando agora
 
 :orange_heart: Bootcamp Backend Itaú - .Net e AWS <br>
@@ -11,6 +14,7 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
 :milky_way: Fuctura - Lógica de programação<br>
 :yellow_heart: Digital Inovation One - Banco Carrefour Data Engineer
 
+<!--Hard Skills-->
 ## 🚀 Minhas Skills
 
 ### :sun_with_face: Frontend
@@ -50,6 +54,7 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
   
    <a href="#" Alt="MongoDB">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  
 
 ### :game_die: Dados
 
@@ -59,8 +64,14 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
   <a href="#" alt="MySQL">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
   
-  <a href="#" Alt="Express">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
+  <a href="#" Alt="Shell">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+  
+   <a href="#" alt="NoSql">
+  <img src="https://img.shields.io/badge/NoSQL-22142b?style=for-the-badge&logo=no-sql&logoColor=white" /></a>
+  
+   <a href="#" Alt="PostGre">  
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
   
 ### Clound
 
@@ -86,15 +97,20 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
 
 #
 
+<!--Sobre trabalhos voluntário-->
 ## :two_women_holding_hands: <strong> Trabalho voluntário </strong>
 
+
+<!--Estatisticas da conta guthub-->
 ## ⭐ Informações sobre minha conta GitHub
 
 <a href="https://github.com/weleedev">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=weleedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=weleedev&layout=compact&langs_count=8&theme=dracula"/>
 
-
+  
+  
+<!--Informações de contato-->
 ## :earth_americas: <strong> Onde me encontrar </strong> :arrow_heading_down:
 
 <p align="left">
@@ -114,5 +130,9 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/breendawelee/"/></a>
 </p> 
 
-
+  <!--Contador de visitas na pagina-->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{weleedev}/count.svg" /></p> 
+<br></div>
 
