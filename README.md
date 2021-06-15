@@ -69,6 +69,9 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
 
 ### :hammer: Ferramentas de desenvolvimento
 
+ <a href="#" Alt="VSCode">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" /></a>
+
 
 ### :file_folder: Organização
 
@@ -77,6 +80,9 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
   
   <a href="#" alt="Office"> 
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
+  
+   <a href="#" Alt="Trello">
+  <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" /></a>
 
 #
 
