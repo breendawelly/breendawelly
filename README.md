@@ -73,7 +73,7 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
    <a href="#" Alt="PostGre">  
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
   
-### Clound
+### Cloud
 
   <a href="#" Alt="AWS">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
