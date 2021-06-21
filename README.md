@@ -107,8 +107,6 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
 <a href="https://github.com/weleedev">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=weleedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=weleedev&layout=compact&langs_count=8&theme=dracula"/>
-
-  
   
 <!--Informações de contato-->
 ## :earth_americas: <strong> Onde me encontrar </strong> :arrow_heading_down:
