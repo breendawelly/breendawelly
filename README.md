@@ -3,7 +3,7 @@
 
 <!--Sobre mim-->
 <h4>
-Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Itaú Unibanco onde participo do Bootcamp Backend desenvolvendo na tecnologia .Net. Também me dedico  aos estudos de engenharia de dados, àrea que desejo me aperfeiçoar e seguir carreira.
+Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Itaú Unibanco onde participo do Bootcamp Backend desenvolvendo na tecnologia .Net. Também me dedico  aos estudos de dados, àrea que desejo me aperfeiçoar e seguir carreira.
 </h4>
 
 <!--Informações academicas-->
