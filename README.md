@@ -105,8 +105,8 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
 ## ⭐ Informações sobre minha conta GitHub
 
 <a href="https://github.com/weleedev">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=weleedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=weleedev&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=breendawelly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=breendawelly&layout=compact&langs_count=8&theme=dracula"/>
   
 <!--Informações de contato-->
 ## :earth_americas: <strong> Onde me encontrar </strong> :arrow_heading_down:
@@ -131,6 +131,6 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
   <!--Contador de visitas na pagina-->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{weleedev}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{breendawelly}/count.svg" /></p> 
 <br></div>
 
