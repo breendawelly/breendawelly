@@ -95,7 +95,7 @@ Sou engenheira de analytics, atualmente trabalho em uma instituição financeira
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
   
   <a href="#" Alt="Trello">
-  <img src="https://img.shields.io/badge/-Trello-333333?style=flat-the-badge&logo=trello&logoColor=007ACC" /></a>
+  <img src="https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC" /></a>
   
   <a href="#" Alt="Sharepoint">
   <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /></a>
