@@ -69,7 +69,7 @@ Sou engenheira de analytics, atualmente trabalho em uma instituição financeira
   <a href="#" Alt="SQL">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
   
-    <a href="#" Alt="Alteryx">
+  <a href="#" Alt="Alteryx">
   <img src="https://img.shields.io/badge/Alteryx-316192?style=for-the-badge" /></a>
   
     <a href="#" Alt="Hadoop">
