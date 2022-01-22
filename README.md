@@ -48,7 +48,7 @@ Sou engenheira de analytics, atualmente trabalho em uma instituição financeira
   <a href="#" Alt="Express">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
   
-   <a href="#" Alt="MongoDB">
+  <a href="#" Alt="MongoDB">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   
 
@@ -72,13 +72,13 @@ Sou engenheira de analytics, atualmente trabalho em uma instituição financeira
   <a href="#" Alt="Alteryx">
   <img src="https://img.shields.io/badge/Alteryx-316192?style=for-the-badge" /></a>
   
-    <a href="#" Alt="Hadoop">
+  <a href="#" Alt="Hadoop">
   <img src="https://img.shields.io/badge/Hadoop-FFD700?style=for-the-badge" /></a>
   
-    <a href="#" Alt="Power BI">
+  <a href="#" Alt="Power BI">
   <img src="https://img.shields.io/badge/Power-BI-FFFF00?style=for-the-badge" /></a>
   
-    <a href="#" Alt="Tableau">
+  <a href="#" Alt="Tableau">
   <img src="https://img.shields.io/badge/Tableau-4682B4?style=for-the-badge" /></a>
   
 ### Cloud
@@ -94,17 +94,17 @@ Sou engenheira de analytics, atualmente trabalho em uma instituição financeira
   <a href="#" alt="Office"> 
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
   
-   <a href="#" Alt="Trello">
+  <a href="#" Alt="Trello">
   <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" /></a>
   
-     <a href="#" Alt="Sharepoint">
+  <a href="#" Alt="Sharepoint">
   <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /></a>
   
-   <a href="#" Alt="Confluence">
+  <a href="#" Alt="Confluence">
   <img src="https://img.shields.io/badge/-Confluence-blue/?style=for-the-badge&logo" /></a>
   
   
-    <a href="#" Alt="Confluence">
+  <a href="#" Alt="Confluence">
   <img src="https://img.shields.io/badge/Confluence-4682B4?style=for-the-badge" /></a>
   
 
