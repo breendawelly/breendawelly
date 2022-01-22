@@ -3,16 +3,14 @@
 
 <!--Sobre mim-->
 <h4>
-Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Itaú Unibanco onde participo do Bootcamp Backend desenvolvendo na tecnologia .Net. Também me dedico  aos estudos de dados, àrea que desejo me aperfeiçoar e seguir carreira.
+Sou engenheira de analytics, atualmente trabalho no Itaú Unibanco onde desenvolvo produtos de dados. 
 </h4>
 
 <!--Informações academicas-->
 ## :mortar_board: Onde e o que estou estudando agora
 
-:orange_heart: Bootcamp Backend Itaú - .Net e AWS <br>
-:blue_heart: Alura -  Python <br>
-:milky_way: Fuctura - Lógica de programação<br>
-:yellow_heart: Digital Inovation One - Banco Carrefour Data Engineer
+:orange_heart: AWS (para certificação) <br>
+:blue_heart: PUC - MBA em Engenharia de Dados<br>
 
 <!--Hard Skills-->
 ## 🚀 Minhas Skills
@@ -33,15 +31,13 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
   
   <a href="#" Alt="Jquery">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
+  
+  <a href="#" Alt="React">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 
 
 ### :zap: Backend
 
-  <a href="#" alt="DoteNet">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
-
-  <a href="#" alt="CCharp">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 
   <a href="#" alt="Python">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -64,25 +60,19 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
   <a href="#" alt="MySQL">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
   
-  <a href="#" Alt="Shell">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
-  
    <a href="#" alt="NoSql">
   <img src="https://img.shields.io/badge/NoSQL-22142b?style=for-the-badge&logo=no-sql&logoColor=white" /></a>
   
-   <a href="#" Alt="PostGre">  
+  <a href="#" Alt="PostGre">  
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  
+  <a href="#" Alt="SQL
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
   
 ### Cloud
 
   <a href="#" Alt="AWS">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-
-### :hammer: Ferramentas de desenvolvimento
-
- <a href="#" Alt="VSCode">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" /></a>
-
 
 ### :file_folder: Organização
 
@@ -94,11 +84,16 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
   
    <a href="#" Alt="Trello">
   <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" /></a>
+  
+     <a href="#" Alt="Sharepoint">
+  <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /></a>
+  
+     <a href="#" Alt="Trello">
+  <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" /></a>
+  
+  
 
 #
-
-<!--Sobre trabalhos voluntário-->
-## :two_women_holding_hands: <strong> Trabalho voluntário </strong>
 
 
 <!--Estatisticas da conta guthub-->
@@ -112,20 +107,9 @@ Sou desenvolvedora web {frontend e backend}, atualmente estudo e trabalho no Ita
 ## :earth_americas: <strong> Onde me encontrar </strong> :arrow_heading_down:
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=SEU-LINK-DO-GMAIL" /></a>
-
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breendawelly/" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/breendawelee/"/></a>
 </p> 
 
   <!--Contador de visitas na pagina-->
