@@ -103,16 +103,14 @@ Sou engenheira de analytics, atualmente trabalho em uma instituição financeira
   <a href="#" Alt="Confluence">
   <img src="https://img.shields.io/badge/Confluence-4682B4?style=for-the-badge" /></a>
   
-
 #
 
 
 <!--Estatisticas da conta guthub-->
 ## ⭐ Informações sobre minha conta GitHub
 
-<a href="https://github.com/weleedev">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=breendawelly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=breendawelly&layout=compact&langs_count=8&theme=dracula"/>
+  [![wellydev](https://github-readme-stats.vercel.app/api/top-langs/?username=breendawelly&hide=html&layout=compact&theme=dracula)](https://github.com/iuricode/)
+  
   
 <!--Informações de contato-->
 ## :earth_americas: <strong> Onde me encontrar </strong> :arrow_heading_down:
