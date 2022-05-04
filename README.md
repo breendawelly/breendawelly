@@ -109,7 +109,7 @@ Sou engenheira de analytics, atualmente trabalho em uma instituição financeira
 <!--Estatisticas da conta guthub-->
 ## ⭐ Informações sobre minha conta GitHub
 
-  [![wellydev](https://github-readme-stats.vercel.app/api/top-langs/?username=breendawelly&hide=html&layout=compact&theme=dracula)](https://github.com/weleedev/)
+  [![breendawelly](https://github-readme-stats.vercel.app/api/top-langs/?username=breendawelly&hide=html&layout=compact&theme=dracula)](https://github.com/breendawelly/)
   [![card](https://github-readme-stats.vercel.app/api?username=breendawelly&theme=dracula)](https://github.com/weleedev/)
   
 <!--Informações de contato-->
