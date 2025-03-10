@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Brenda Wel!
+# 👋 Hi, I'm Bree!
 
 ## 💡 About Me  
-I'm a **Data Analytics Specialist** with a degree in **Marketing**, a postgraduate degree in **Data Engineering**, and currently pursuing a **Statistics** degree.  
+I'm a **Data Analytics** with a degree in **Marketing**, a postgraduate degree in **Data Engineering**, and currently pursuing a **Statistics** degree.  
 
 📊 I have experience in **data analysis, modeling, and storytelling**, building efficient **pipelines** and driving **strategic decisions** through data.  
 ☁️ I work with **AWS (Athena, S3, Glue, QuickSight)**, **SQL**, **Python (Pandas, NumPy, Scikit-Learn)**, and visualization tools like **Tableau**.  
