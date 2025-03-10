@@ -1,22 +1,24 @@
+# 👋 Hi, I'm Brenda Wel!
 
-<!--💡 About Me-->
-<h4>
+## 💡 About Me  
+I'm a **Data Analytics Specialist** with a degree in **Marketing**, a postgraduate degree in **Data Engineering**, and currently pursuing a **Statistics** degree.  
 
-👋 Hi! I'm Bree, a Data Analytics Specialist with a degree in Marketing, a postgraduate degree in Data Engineering, and currently pursuing a Statistics degree.
+📊 I have experience in **data analysis, modeling, and storytelling**, building efficient **pipelines** and driving **strategic decisions** through data.  
+☁️ I work with **AWS (Athena, S3, Glue, QuickSight)**, **SQL**, **Python (Pandas, NumPy, Scikit-Learn)**, and visualization tools like **Tableau**.  
+🧠 Currently, I’m deepening my knowledge in **Feature Engineering, Data Science, and Cloud Computing**, while also exploring **Information Security**.  
 
-📊 I have experience in data analysis and modeling, building efficient pipelines, and data storytelling to drive strategic decisions.
+---
 
-☁️ I work with AWS (Athena, S3, Glue, QuickSight), SQL, Python (Pandas, NumPy, Scikit-Learn), and visualization tools like Tableau.
+## 🚀 What I'm Working On  
+- 🔍 Developing **pipelines** and analyzing **consumer behavior**  
+- 🔗 Creating **data science** projects for my portfolio   
+- 🌎 Sharing insights on **data, technology, and career growth on LinkedIn**  
 
-🧠 Currently, I’m deepening my knowledge in Feature Engineering, Data Science, and Cloud Computing.
+---
 
-<!--🚀 What Am I Working On?-->
+## 📈 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breendawelly/)  
 
-🔍 Developing pipelines and analyzing consumer behavior.
-🔗 Creating data science projects for my portfolio.
-🌎 Preparing content to share insights on data, technology, and career growth on LinkedIn.
-</h4>
+---
 
-
-
-
+⭐ Feel free to check out my projects and connect with me!
